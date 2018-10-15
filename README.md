@@ -7,4 +7,4 @@ and the icons are [font-awesome](http://fortawesome.github.io/Font-Awesome/),
 no bibliography, loads [microtype](https://www.ctan.org/pkg/microtype?lang=en) 
 and some other minor modifications.
 
-![Sample image of generated CV](sample.png)
+![Sample image of generated CV](cv.png)
