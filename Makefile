@@ -1,4 +1,4 @@
-root = martinmadsenCV
+root = cv
 compileoptions = -xelatex -use-make
 
 .PHONY: $(root).pdf all clean
